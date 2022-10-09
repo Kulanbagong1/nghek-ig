@@ -1,7 +1,7 @@
 # NGHEK IGEH<br><br>
-### Menu
+### ❯ Menu
 ![Screenshot](.data/img/menu.jpg)<br><br>
-## Instalasi
+## ❯ Instalasi
 ```bash
  git clone https://github.com/Din-zUgex95/nghek-igeh
  cd nghek-igeh
@@ -9,8 +9,8 @@
  ./main
 ```
 <br><br>
-## pengaturan
-file [config.json](.data/config.json)
+## ❯ pengaturan
+ Buka file [config.json](.data/config.json)
 ```json
 {
     "settings": [
@@ -24,9 +24,9 @@ file [config.json](.data/config.json)
 }
 ```
 <br><br>
-### Logging
+### ❯ Logging
 ![Screenshot](.data/img/log.jpg)<br><br>
 <br><br>
-## catatan
-buka file [note.txt](note.txt) terlebih dahulu
+## ❯ catatan
+ Baca file [note.txt](note.txt) terlebih dahulu
 <br><br><br><br>
