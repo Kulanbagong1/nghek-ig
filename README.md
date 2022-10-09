@@ -6,6 +6,7 @@
  git clone https://github.com/Din-zUgex95/nghek-igeh
  cd nghek-igeh
  pip3 install -r requirements.txt
+ chmod 777 main
  ./main
 ```
 <br><br>
