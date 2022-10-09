@@ -1,10 +1,10 @@
 # Nghek Igeh
 Menu
 <br><br>![Screenshot](.data/img/menu.jpg)<br><br>
-Notifikasi jika akun login berhasil
-https://github.com/Din-zUgex95/nghek-igeh/blob/master/.data/notify/success.mp3?raw=true
-Notifikasi jika akun login checkpoint
-https://github.com/Din-zUgex95/nghek-igeh/blob/master/.data/notify/checkpoint.mp3?raw=true
+Notifikasi jika akun login berhasil<br>
+"https://github.com/Din-zUgex95/nghek-igeh/blob/master/.data/notify/success.mp3?raw=true"
+<br>Notifikasi jika akun login checkpoint<br>
+"https://github.com/Din-zUgex95/nghek-igeh/blob/master/.data/notify/checkpoint.mp3?raw=true"
 <br><br>Logging
 <br><br>![Screenshot](.data/img/log.jpg)<br><br>
 
