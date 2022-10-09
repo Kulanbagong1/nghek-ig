@@ -13,6 +13,4 @@ Logging
 ```
 
 ### catatan
-buka file note.txt terlebih dahulu
-
-
+buka file [note.txt](note.txt) terlebih dahulu
