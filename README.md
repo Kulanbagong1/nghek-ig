@@ -11,6 +11,18 @@ Logging
  pip3 install -r requirements.txt
  ./main
 ```
+### pengaturan
+```json
+{
+    "settings": [
+        {
+            "max_dump_id": 3000,
+            "max_work": 15,
+            "default_crack_speed": "fast"
+        }
+    ]
 
+}
+```
 ### catatan
 buka file [note.txt](note.txt) terlebih dahulu
