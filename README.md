@@ -1,16 +1,7 @@
-# Nghek Igeh
-Menu
-<br><br>![Screenshot](.data/img/menu.jpg)<br><br>
-Notifikasi jika akun login berhasil<br>
-<body>
-<audio controls>
-<source src=“.data/notify/success.mp3” type=“audio/mpeg”>
-</audio>
-</body>
-<br><br>Logging
-<br><br>![Screenshot](.data/img/log.jpg)<br><br>
-
-### Instalasi
+# NGHEK IGEH<br><br>
+### Menu
+![Screenshot](.data/img/menu.jpg)<br><br>
+## Instalasi
 ```bash
  git clone https://github.com/Din-zUgex95/nghek-igeh
  cd nghek-igeh
@@ -18,7 +9,7 @@ Notifikasi jika akun login berhasil<br>
  ./main
 ```
 <br><br>
-### pengaturan
+## pengaturan
 file [config.json](.data/config.json)
 ```json
 {
@@ -33,6 +24,9 @@ file [config.json](.data/config.json)
 }
 ```
 <br><br>
-### catatan
+### Logging
+![Screenshot](.data/img/log.jpg)<br><br>
+<br><br>
+## catatan
 buka file [note.txt](note.txt) terlebih dahulu
 <br><br><br><br>
