@@ -1,0 +1,25 @@
+
+1. RUN THE PROGRAM
+   $ chmod 777 main
+   $ ./main
+
+2. LOGIN
+   login dengan menggunakan Cookies Instagram,
+   pilih menu dengan menggunakan tombol atas/bawah, tekan enter untuk memilih
+   jika id anda tidak aktif, daftar terlebih dahulu !!! ( jangan malah rekod ya budjank )
+
+3. PENGATURAN
+   buka file config.json di dalam folder .data/config.json
+   ubah pengaturan yang kamu inginkan, 
+
+4. LOGGING
+   untuk melihat log,
+   buka session/layar baru ketik 
+   $ tail -f .logCrack
+   keterangan warna
+    - abu    : password tidak sesuai dengan akun
+    - hijau  : login berhasil kedalam akun
+    - kuning : berhasil login, tetapi akun terkena sesi ( checkpoint )
+    - putih  : terjadi error yang tidak di ketahui
+
+note : jika terjadi error bisa laporkan kesalahan tersebut kepada No.WhatsApp ( kalau membayar si ya tau no wa yg mana xixi )

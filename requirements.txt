@@ -1,0 +1,6 @@
+stdiomask
+pystyle
+inquirer
+fake_useragent
+futures
+requests
