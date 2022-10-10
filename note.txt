@@ -6,6 +6,7 @@
 2. LOGIN
    login dengan menggunakan Cookies Instagram,
    pilih menu dengan menggunakan tombol atas/bawah, tekan enter untuk memilih
+   Sebelumnya daftar terlebih dahulu, dengan mengisi Username nama anda,
    jika id anda tidak aktif, daftar terlebih dahulu !!! ( jangan malah rekod ya budjank )
 
 3. PENGATURAN
